@@ -69,9 +69,9 @@ Config.Language = {
 }
 
 Config.enableDiscordWhitelist = true -- For Enable Whitelist System
-Config.discordServerGuild = "966062118870872095" -- Discord Server ID to check it if player is in the server
-Config.discordBotToken = "ODkwMzY0MDg5MDUyODM1ODcy.GNwFaX.BdyWIgQC5MPibjaO_ePI5_Dl3vgBxZK9FS97Cw"  -- Discord Token Bot - You Can Create at https://discord.com/developers/applications
-
+Config.discordServerGuild = "966062118870872095" -- Discord Server ID to check it if player is in the server 
+Config.discordBotToken = ""  -- Discord Token Bot - You Can Create at https://discord.com/developers/applications
+Config.discordBotToken1 = "" -- Split the token exp: token = asdad123123123sdasddsa but it should like Config.discordBotToken = 'asdad123123' Config.discordBotToken1 = '123sdasddsa'
 
 Config.Roles = {
 	member = {
