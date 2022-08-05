@@ -75,11 +75,11 @@ Config.discordBotToken1 = "" -- Split the token exp: token = asdad123123123sdasd
 
 Config.Roles = {
 	member = {
-		roleID = "1004931283945803796", --Role ID
+		roleID = "", --Role ID
 		point = 15,  -- any bigger point can push player on the first row of queue
 	},
     vip = {
-		roleID = "1004931332788473956", --Role ID
+		roleID = "", --Role ID
 		point = 20,  -- any bigger point can push player on the first row of queue
 	},
 
